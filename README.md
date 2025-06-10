@@ -1,3 +1,9 @@
+![Build Status](https://github.com/muhammadosaif/qa-ecommerce-project/actions/workflows/run-tests.yml/badge.svg)
+![License: MIT](https://img.shields.io/github/license/muhammadosaif/qa-ecommerce-project)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Stars](https://img.shields.io/github/stars/muhammadosaif/qa-ecommerce-project?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/muhammadosaif/qa-ecommerce-project)
+
 # 💼 qa-ecommerce-project
 
 **End-to-end QA automation framework for an e-commerce application.**  
